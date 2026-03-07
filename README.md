@@ -52,9 +52,7 @@ Admission Assistant Chatbot
 ## GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Rao-06&show_icons=true&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Rao-06&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -62,9 +60,7 @@ Admission Assistant Chatbot
 ## Top Languages
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Rao-06&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Rao-06&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
