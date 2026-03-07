@@ -1,31 +1,28 @@
-<h1 align="center">Vaishnavi Rao</h1>
+<h1 align="center">Hi 👋 I'm Vaishnavi Rao</h1>
+<h3 align="center">Artificial Intelligence Student | Beginner Developer</h3>
 
 <p align="center">
-Artificial Intelligence Student • Developer
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF0000&height=160&section=header"/>
 </p>
 
 ---
 
 ## About Me
 
-AI student from India  
-Interested in AI, chatbots and web development  
+🎓 Artificial Intelligence student from India  
 
-Currently learning
-- Python
-- Web Development
-- GitHub
+💻 Interested in  
+AI • Chatbots • Web Development  
 
-Goal  
-Build powerful AI based applications.
+📚 Currently learning  
+Python • GitHub • Web Development  
+
+🎯 Goal  
+Build impactful AI applications
 
 ---
 
-## Projects
+## Current Projects
 
 AI Mental Health Support Bot  
 
@@ -41,17 +38,12 @@ Admission Assistant Chatbot
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
+<img src="https://skillicons.dev/icons?i=html" height="40"/>
+<img src="https://skillicons.dev/icons?i=css" height="40"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="40"/>
 
 </p>
 
@@ -61,7 +53,7 @@ Admission Assistant Chatbot
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Rao-06&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Rao-06&show_icons=true&theme=tokyonight"/>
 
 </p>
 
@@ -71,7 +63,7 @@ Admission Assistant Chatbot
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Rao-06&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Rao-06&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -88,5 +80,5 @@ rao.jnv.06@gmail.com
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF0000&height=160&section=footer"/>
 </p>
