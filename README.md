@@ -25,10 +25,6 @@ Build impactful AI applications
 
 ## Current Projects
 
-AI Mental Health Support Bot  
-
-SoulCare – AI Therapist Bot  
-
 Mini Game Zone Website  
 
 Admission Assistant Chatbot
