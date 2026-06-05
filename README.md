@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋 I'm Vaishnavi Rao</h1>
-<h3 align="center">Artificial Intelligence Student | Beginner Developer</h3>
+<h3 align="center">Aspiring Data Analyst | Web Developer | UI/UX Designer | AI Enthusiast
+</h3>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:FF0000&height=160&section=header"/>
